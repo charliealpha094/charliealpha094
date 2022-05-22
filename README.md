@@ -21,7 +21,7 @@ Here are some ideas to get you started:
      <li>HTML/CSS, JavaScript, Python</li>
      <li>A bit of C++</li>
      </ul>
-    <hr>
+    <br>
     <ul><ins><strong>Libraries and frameworks</ins></strong>:
      <li>ReactJS</li>
      <li>Tailwind CSS</li>
