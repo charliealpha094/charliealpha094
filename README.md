@@ -35,8 +35,8 @@ Here are some ideas to get you started:
      <li>MongoDB</li>
      </ul>
      <br>
-     <ul><ins><strong>OS</strong></ins></ul>:
+     <ul><ins><strong>OS</strong></ins>:
      <li>Linux (Ubuntu)</li>
      <li>Windows 10</li>
      <li>macOS</li>
-
+</ul>
