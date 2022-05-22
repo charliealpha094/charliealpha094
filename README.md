@@ -27,16 +27,21 @@ Here are some ideas to get you started:
      <li>Tailwind CSS</li>
      <li>Angular (under development)</li>
      <li>Django (don't use it for a few time)</li>
-     </ul>
+    </ul>
      <br>
      <ul><ins><strong>Databases</strong></ins>:
-     <li>SqLite</li>
-     <li>MySql</li>
-     <li>MongoDB</li>
+      <li>SqLite</li>
+      <li>MySql</li>
+      <li>MongoDB</li>
      </ul>
      <br>
      <ul><ins><strong>OS</strong></ins>:
-     <li>Linux (Ubuntu)</li>
-     <li>Windows 10</li>
-     <li>macOS</li>
-</ul>
+      <li>Linux (Ubuntu)</li>
+      <li>Windows 10</li>
+      <li>macOS</li>
+     </ul>
+     <br>
+     <ul><ins><strong>Backend</strong></ins>:
+      <li>Node.js</li>
+     </ul>
+
