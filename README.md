@@ -22,7 +22,7 @@ Here are some ideas to get you started:
      <li>A bit of C++</li>
      </ul>
     <hr>
-    <ul>Libraries and frameworks:
+    <ul><ins><strong>Libraries and frameworks</ins></strong>:
      <li>ReactJS</li>
      <li>Tailwind CSS</li>
      <li>Angular (under development)</li>
