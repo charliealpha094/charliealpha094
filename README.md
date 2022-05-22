@@ -19,5 +19,6 @@ Here are some ideas to get you started:
 - My current skills as of 05/2022:
      <ul>Languages:
      <li>HTML/CSS, JavaScript, Python</li>
+     <li>A bit of C++</li>
 </ul>
 
