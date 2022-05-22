@@ -54,4 +54,4 @@ Here are some ideas to get you started:
     </ul>
 
 <hr>
-- <strong>Visit my personal website made with ReactJs <a href="charliealpha094.netlify.app">here</a></strong>
+- <strong>Visit my personal website made with ReactJs <a href="https://charliealpha094.netlify.app">here</a></strong>
