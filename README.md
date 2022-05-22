@@ -28,4 +28,10 @@ Here are some ideas to get you started:
      <li>Angular (under development)</li>
      <li>Django (don't use it for a few time)</li>
      </ul>
+     <br>
+     <ul><ins><strong>Databases</strong></ins>
+     <li>SqLite</li>
+     <li>MySql</li>
+     <li>MongoDB</li>
+     </ul>
 
