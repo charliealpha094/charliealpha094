@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, welcome to my GitHub repository 👋
 
 <!--
 **charliealpha094/charliealpha094** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- I'm a self-taught developer, currently looking for a job as a front-end developer...
+- I'm currently developing my skills on ReactJs and also starting to learn some backend with NodeJS and MongoDb...
+- My current skills as of 05/2022:
+- HTML/CSS
