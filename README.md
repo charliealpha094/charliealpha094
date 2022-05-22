@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 - I'm a self-taught developer, currently looking for a job as a front-end developer...
 - I'm currently developing my skills on ReactJs and also starting to learn some backend with NodeJS and MongoDb...
 - My current skills as of 05/2022:
-     <ul><ins>**Languages**</ins>:
+     <ul><ins><strong>Languages<strong></ins>:
      <li>HTML/CSS, JavaScript, Python</li>
      <li>A bit of C++</li>
 </ul>
