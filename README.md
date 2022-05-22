@@ -49,6 +49,7 @@ Here are some ideas to get you started:
 - <strong>I'm currently working on</strong>:
     <ul>
      <li>FreeCodeCamp (New) Responsive Web Design Certification</li>
-     <li></li>
+     <li>Full Stack Open 2022 Mooc by University of Helsinki</li>
+     <li>Small React projects</li>
     </ul>
 
