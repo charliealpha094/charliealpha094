@@ -46,6 +46,8 @@ Here are some ideas to get you started:
      </ul>
      
      <hr>
--I'm currently working on:
+- I'm currently working on:
+     <li>FreeCodeCamp (New) Responsive Web Design Certification</li>
+     <li></li>
 
 
