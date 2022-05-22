@@ -53,3 +53,5 @@ Here are some ideas to get you started:
      <li>Small React projects</li>
     </ul>
 
+<hr>
+- <strong>Visit my personal website made with ReactJs <a href="charliealpha094.netlify.app">here</a></strong>
