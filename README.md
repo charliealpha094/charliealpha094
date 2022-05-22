@@ -29,9 +29,14 @@ Here are some ideas to get you started:
      <li>Django (don't use it for a few time)</li>
      </ul>
      <br>
-     <ul><ins><strong>Databases</strong></ins>
+     <ul><ins><strong>Databases</strong></ins>:
      <li>SqLite</li>
      <li>MySql</li>
      <li>MongoDB</li>
      </ul>
+     <br>
+     <ul><ins><strong>OS</strong></ins></ul>:
+     <li>Linux (Ubuntu)</li>
+     <li>Windows 10</li>
+     <li>macOS</li>
 
