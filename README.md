@@ -19,6 +19,7 @@ Here are some ideas to get you started:
 - My current skills as of 06/2022:
      <ul><ins><strong>Languages</strong></ins>:
      <li>HTML/CSS, JavaScript, Python</li>
+     <li>Java</li>
      <li>A bit of C++</li>
      </ul>
     <br>
@@ -48,9 +49,8 @@ Here are some ideas to get you started:
      <hr>
 - <strong>I'm currently working on</strong>:
     <ul>
-     <li>FreeCodeCamp (New) Responsive Web Design Certification</li>
-     <li>Full Stack Open 2022 Mooc by University of Helsinki</li>
-     <li>Small React projects</li>
+     <li>Learning Java with "Java programming MOOC Helsinki - I"</li>
+     
     </ul>
 
 <hr>
